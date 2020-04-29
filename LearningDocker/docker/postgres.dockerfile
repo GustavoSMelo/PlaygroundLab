@@ -1,0 +1,7 @@
+FROM postgres:alpine
+
+WORKDIR /usr/docker/app
+
+ENV POSTGRES_USER root
+ENV POSTGRES_PASSWORD 12345
+ENV POSTGRES_DB mybankdata
