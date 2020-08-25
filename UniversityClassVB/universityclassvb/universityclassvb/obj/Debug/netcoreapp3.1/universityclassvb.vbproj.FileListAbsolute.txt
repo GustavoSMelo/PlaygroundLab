@@ -1,0 +1,13 @@
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\bin\Debug\netcoreapp3.1\universityclassvb.exe
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\bin\Debug\netcoreapp3.1\universityclassvb.deps.json
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\bin\Debug\netcoreapp3.1\universityclassvb.runtimeconfig.json
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\bin\Debug\netcoreapp3.1\universityclassvb.runtimeconfig.dev.json
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\bin\Debug\netcoreapp3.1\universityclassvb.dll
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\bin\Debug\netcoreapp3.1\universityclassvb.pdb
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\obj\Debug\netcoreapp3.1\universityclassvb.vbprojAssemblyReference.cache
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\obj\Debug\netcoreapp3.1\universityclassvb.AssemblyInfoInputs.cache
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\obj\Debug\netcoreapp3.1\universityclassvb.AssemblyInfo.vb
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\obj\Debug\netcoreapp3.1\universityclassvb.vbproj.CoreCompileInputs.cache
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\obj\Debug\netcoreapp3.1\universityclassvb.dll
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\obj\Debug\netcoreapp3.1\universityclassvb.pdb
+C:\Users\gugag\Documents\www\UniversityClassVB\universityclassvb\universityclassvb\obj\Debug\netcoreapp3.1\universityclassvb.genruntimeconfig.cache
