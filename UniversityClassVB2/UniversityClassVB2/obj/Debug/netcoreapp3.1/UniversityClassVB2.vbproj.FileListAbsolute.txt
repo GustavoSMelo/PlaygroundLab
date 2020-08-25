@@ -1,0 +1,13 @@
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\bin\Debug\netcoreapp3.1\UniversityClassVB2.exe
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\bin\Debug\netcoreapp3.1\UniversityClassVB2.deps.json
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\bin\Debug\netcoreapp3.1\UniversityClassVB2.runtimeconfig.json
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\bin\Debug\netcoreapp3.1\UniversityClassVB2.runtimeconfig.dev.json
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\bin\Debug\netcoreapp3.1\UniversityClassVB2.dll
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\bin\Debug\netcoreapp3.1\UniversityClassVB2.pdb
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\obj\Debug\netcoreapp3.1\UniversityClassVB2.vbprojAssemblyReference.cache
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\obj\Debug\netcoreapp3.1\UniversityClassVB2.AssemblyInfoInputs.cache
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\obj\Debug\netcoreapp3.1\UniversityClassVB2.AssemblyInfo.vb
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\obj\Debug\netcoreapp3.1\UniversityClassVB2.vbproj.CoreCompileInputs.cache
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\obj\Debug\netcoreapp3.1\UniversityClassVB2.dll
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\obj\Debug\netcoreapp3.1\UniversityClassVB2.pdb
+C:\Users\gugag\Documents\www\UniversityClassVB2\UniversityClassVB2\obj\Debug\netcoreapp3.1\UniversityClassVB2.genruntimeconfig.cache
