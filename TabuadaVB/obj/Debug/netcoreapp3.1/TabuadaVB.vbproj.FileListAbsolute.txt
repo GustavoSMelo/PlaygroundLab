@@ -1,0 +1,13 @@
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\bin\Debug\netcoreapp3.1\TabuadaVB.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\bin\Debug\netcoreapp3.1\TabuadaVB.deps.json
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\bin\Debug\netcoreapp3.1\TabuadaVB.runtimeconfig.json
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\bin\Debug\netcoreapp3.1\TabuadaVB.runtimeconfig.dev.json
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\bin\Debug\netcoreapp3.1\TabuadaVB.dll
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\bin\Debug\netcoreapp3.1\TabuadaVB.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\obj\Debug\netcoreapp3.1\TabuadaVB.vbprojAssemblyReference.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\obj\Debug\netcoreapp3.1\TabuadaVB.AssemblyInfoInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\obj\Debug\netcoreapp3.1\TabuadaVB.AssemblyInfo.vb
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\obj\Debug\netcoreapp3.1\TabuadaVB.vbproj.CoreCompileInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\obj\Debug\netcoreapp3.1\TabuadaVB.dll
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\obj\Debug\netcoreapp3.1\TabuadaVB.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\TabuadaVB\obj\Debug\netcoreapp3.1\TabuadaVB.genruntimeconfig.cache
