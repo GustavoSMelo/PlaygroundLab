@@ -1,0 +1,12 @@
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\bin\Debug\WPA_VB_university.exe.config
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\bin\Debug\WPA_VB_university.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\bin\Debug\WPA_VB_university.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\bin\Debug\WPA_VB_university.xml
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\obj\Debug\WPA_VB_university.vbprojAssemblyReference.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\obj\Debug\WPA_VB_university.Form1.resources
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\obj\Debug\WPA_VB_university.Resources.resources
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\obj\Debug\WPA_VB_university.vbproj.GenerateResource.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\obj\Debug\WPA_VB_university.vbproj.CoreCompileInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\obj\Debug\WPA_VB_university.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\obj\Debug\WPA_VB_university.xml
+C:\Users\gugag\Documents\www\PlaygroundLab\WPA_VB_university\obj\Debug\WPA_VB_university.pdb
