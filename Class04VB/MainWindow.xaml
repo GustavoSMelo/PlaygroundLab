@@ -1,0 +1,38 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Class04VB"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="519.891" Width="834.332">
+    <Grid>
+        <StackPanel>
+            <Button Margin="5"
+                    FontSize="16pt"
+                    Width="180"
+                    Height="50"
+                    Click="Button_Click" Content="Comprar"/>
+            <Image Height="130"
+                   Width="180" Source="3u7x3b3otmyh6kytychp.gif"
+                   />
+            <TextBox
+                x:Name="txtField"
+                Margin="5,5,620,5" 
+                FontSize="20pt" 
+                Height="36"/>
+            <CheckBox 
+                x:Name="chkFirst"
+                FontSize="28pt"
+                Height="51" Margin="0,0,620,0" Content="Fusca"/>
+            <CheckBox 
+                x:Name="chkSecond"
+                FontSize="28pt"
+                Height="50" Margin="0,0,604,0" Content="Onyx"/>
+            <CheckBox 
+                x:Name="chkThird"
+                FontSize="28pt"
+                Height="51" Margin="0,0,589,0" Content="Sandero"/>
+        </StackPanel>
+    </Grid>
+</Window>

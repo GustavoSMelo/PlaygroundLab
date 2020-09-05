@@ -1,0 +1,17 @@
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB.vbprojAssemblyReference.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Application.g.vb
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB_MarkupCompile.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\bin\Debug\Class04VB.exe.config
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\bin\Debug\Class04VB.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\bin\Debug\Class04VB.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\bin\Debug\Class04VB.xml
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\MainWindow.g.vb
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB_MarkupCompile.lref
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\MainWindow.baml
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB.g.resources
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB.Resources.resources
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB.vbproj.GenerateResource.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB.vbproj.CoreCompileInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB.xml
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04VB\obj\Debug\Class04VB.pdb
