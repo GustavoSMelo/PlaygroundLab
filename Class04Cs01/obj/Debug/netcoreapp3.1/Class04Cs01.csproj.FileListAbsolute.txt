@@ -1,0 +1,13 @@
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\bin\Debug\netcoreapp3.1\Class04Cs01.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\bin\Debug\netcoreapp3.1\Class04Cs01.deps.json
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\bin\Debug\netcoreapp3.1\Class04Cs01.runtimeconfig.json
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\bin\Debug\netcoreapp3.1\Class04Cs01.runtimeconfig.dev.json
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\bin\Debug\netcoreapp3.1\Class04Cs01.dll
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\bin\Debug\netcoreapp3.1\Class04Cs01.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\obj\Debug\netcoreapp3.1\Class04Cs01.csprojAssemblyReference.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\obj\Debug\netcoreapp3.1\Class04Cs01.AssemblyInfoInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\obj\Debug\netcoreapp3.1\Class04Cs01.AssemblyInfo.cs
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\obj\Debug\netcoreapp3.1\Class04Cs01.csproj.CoreCompileInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\obj\Debug\netcoreapp3.1\Class04Cs01.dll
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\obj\Debug\netcoreapp3.1\Class04Cs01.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\Class04Cs01\obj\Debug\netcoreapp3.1\Class04Cs01.genruntimeconfig.cache
