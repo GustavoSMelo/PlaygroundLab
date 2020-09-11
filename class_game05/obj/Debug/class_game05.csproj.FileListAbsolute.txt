@@ -1,0 +1,10 @@
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\bin\Debug\class_game05.exe.config
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\bin\Debug\class_game05.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\bin\Debug\class_game05.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\obj\Debug\class_game05.csprojAssemblyReference.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\obj\Debug\class_game05.Properties.Resources.resources
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\obj\Debug\class_game05.csproj.GenerateResource.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\obj\Debug\class_game05.csproj.CoreCompileInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\obj\Debug\class_game05.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\obj\Debug\class_game05.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\class_game05\obj\Debug\class_game05.Form1.resources
