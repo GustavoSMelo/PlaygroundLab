@@ -1,0 +1,10 @@
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\bin\Debug\WFA06.exe.config
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\bin\Debug\WFA06.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\bin\Debug\WFA06.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\obj\Debug\WFA06.csprojAssemblyReference.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\obj\Debug\WFA06.Form1.resources
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\obj\Debug\WFA06.Properties.Resources.resources
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\obj\Debug\WFA06.csproj.GenerateResource.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\obj\Debug\WFA06.csproj.CoreCompileInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\obj\Debug\WFA06.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\WPFClass06\WFA06\obj\Debug\WFA06.pdb
