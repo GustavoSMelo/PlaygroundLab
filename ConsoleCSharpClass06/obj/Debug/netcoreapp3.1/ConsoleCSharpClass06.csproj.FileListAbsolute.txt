@@ -1,0 +1,13 @@
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\bin\Debug\netcoreapp3.1\ConsoleCSharpClass06.exe
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\bin\Debug\netcoreapp3.1\ConsoleCSharpClass06.deps.json
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\bin\Debug\netcoreapp3.1\ConsoleCSharpClass06.runtimeconfig.json
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\bin\Debug\netcoreapp3.1\ConsoleCSharpClass06.runtimeconfig.dev.json
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\bin\Debug\netcoreapp3.1\ConsoleCSharpClass06.dll
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\bin\Debug\netcoreapp3.1\ConsoleCSharpClass06.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\obj\Debug\netcoreapp3.1\ConsoleCSharpClass06.csprojAssemblyReference.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\obj\Debug\netcoreapp3.1\ConsoleCSharpClass06.AssemblyInfoInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\obj\Debug\netcoreapp3.1\ConsoleCSharpClass06.AssemblyInfo.cs
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\obj\Debug\netcoreapp3.1\ConsoleCSharpClass06.csproj.CoreCompileInputs.cache
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\obj\Debug\netcoreapp3.1\ConsoleCSharpClass06.dll
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\obj\Debug\netcoreapp3.1\ConsoleCSharpClass06.pdb
+C:\Users\gugag\Documents\www\PlaygroundLab\ConsoleCSharpClass06\obj\Debug\netcoreapp3.1\ConsoleCSharpClass06.genruntimeconfig.cache
