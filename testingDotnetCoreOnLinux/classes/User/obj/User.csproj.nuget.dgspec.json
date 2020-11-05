@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/User/User.csproj": {}
+  },
+  "projects": {
+    "/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/User/User.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/User/User.csproj",
+        "projectName": "User",
+        "projectPath": "/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/User/User.csproj",
+        "packagesPath": "/home/gustavomelo/.nuget/packages/",
+        "outputPath": "/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/User/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gustavomelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/gustavomelo/.asdf/installs/dotnet-core/3.1.403/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

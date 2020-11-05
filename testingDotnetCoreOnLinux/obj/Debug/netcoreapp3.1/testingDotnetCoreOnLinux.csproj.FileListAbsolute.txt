@@ -1,0 +1,13 @@
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/bin/Debug/netcoreapp3.1/testingDotnetCoreOnLinux
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/bin/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.deps.json
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/bin/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.runtimeconfig.json
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/bin/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.runtimeconfig.dev.json
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/bin/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.dll
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/bin/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.pdb
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/obj/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.csprojAssemblyReference.cache
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/obj/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.AssemblyInfoInputs.cache
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/obj/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.AssemblyInfo.cs
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/obj/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.csproj.CoreCompileInputs.cache
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/obj/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.dll
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/obj/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.pdb
+/home/gustavomelo/www/PlaygroundLab/testingDotnetCoreOnLinux/obj/Debug/netcoreapp3.1/testingDotnetCoreOnLinux.genruntimeconfig.cache
