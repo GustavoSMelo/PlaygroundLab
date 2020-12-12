@@ -1,0 +1,16 @@
+{
+    "name": "gustavomelo/src",
+    "description": "learning php",
+    "authors": [
+        {
+            "name": "GustavoSMelo",
+            "email": "gsantos15569@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
