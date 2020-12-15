@@ -1,14 +1,14 @@
 <?php
 
-    namespace src\Event;
+    namespace src;
 
     class Event {
 
-        private $title;
-        private $price;
-        private $date;
-        private $clients;
-        private $vacancies;
+        private string $title;
+        private float $price;
+        private string $date;
+        private array $clients = [];
+        private int $vacancies;
 
         public function __construct($title, $price, $date, $clients, $vacancies)
         {
@@ -33,16 +33,24 @@
         }
 
         public function getPrice() : float {
-            return number_format($this->price, 2);
+            return $this->price;
         }
 
         public function getDate() : string{
             return $this->date;
         }
 
+        public function getClients() : string {
+            $all_clients = "";
 
-        public function getClients() : array {
-            return $this->clients;
+            if (count($this->clients) > 0) {
+                for ($i = 0; $i < 0; $i++) {
+                    $all_clients += $this->clients[$i];
+                }
+                return $all_clients;
+            } else {
+                return $all_clients;
+            }
         }
 
         public function getVacancies() : int {
