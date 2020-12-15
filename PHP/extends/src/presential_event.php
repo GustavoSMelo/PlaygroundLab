@@ -1,19 +1,31 @@
 <?php
 
-use \src\Address\Address;
-use \src\Event\Event;
+    namespace src;
 
-class PresentialEvent extends Event {
+    use src\Event;
+    use src\Address;
 
-    private $address;
+    class PresentialEvent extends Event {
 
-    public function __construct($title, $price, $date, $clients, $vacancies, Address $address) {
-        parent::__construct($title, $price, $date, $clients, $vacancies);
-        
-        $this->address = $address;
+        private $address;
+
+        public function __construct($title, $price, $date, $clients, $vacancies, Address $address) {
+            parent::__construct($title, $price, $date, $clients, $vacancies);
+            
+            $this->address = $address;
+        }
+
+        public function getAddress () : string {
+            return $this->address->__toString();
+        }
+
+        public function __toString() : string
+        {
+            return "Presential Event = title: {$this->getTitle()},
+            <br/> price: {$this->getPrice()},
+            <br /> date: {$this->getDate()},
+            <br /> clients: {$this->getClients()},
+            <br /> vacancies: {$this ->getVacancies()},
+            <br /> address: {$this->getAddress()}";            
+        }
     }
-
-    public function getAddress ($address) : Address {
-        return $this->address;
-    }
-}
