@@ -1,11 +1,12 @@
 <?php
-    namespace src\Address;
+
+    namespace src;
 
     class Address {
 
-        private $street;
-        private $number;
-        private $cep;
+        private string $street;
+        private string $number;
+        private string $cep;
 
         public function __construct($street, $number, $cep)
         {
@@ -24,5 +25,10 @@
 
         public function getCep() : string {
             return $this->cep;
+        }
+
+        public function __toString() : string
+        {
+            return $this->getStreet().", ".$this->getNumber()." ".$this->getCep();
         }
     }
