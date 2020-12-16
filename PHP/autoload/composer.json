@@ -1,0 +1,23 @@
+{
+    "name": "gustavomelo/autoload",
+    "description": "Learning about autoload",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GustavoSMelo",
+            "email": "gsantos15569@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "config": {
+        "vendor-lib": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "AutoApp\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "~6.0"
+    }
+}
