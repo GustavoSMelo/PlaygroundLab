@@ -1,7 +1,7 @@
 <?php
 
-use src\Loading\Address;
-use src\Loading\Company;
+    require __DIR__."/vendor/autoload.php";
 
-    $address = new Address();
-    $company = new Company();
+    $user = new AutoApp\src\loading\Client();
+    
+    var_dump($user);
