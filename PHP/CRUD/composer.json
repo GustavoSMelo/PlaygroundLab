@@ -1,0 +1,17 @@
+{
+    "name": "gustavomelo/crud",
+    "description": "Creating a CRUD system with php",
+    "authors": [
+        {
+            "name": "GustavoSMelo",
+            "email": "gsantos15569@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Crud\\": "Src/"
+        }
+    }
+}
