@@ -1,0 +1,17 @@
+{
+    "name": "gustavomelo/session",
+    "description": "Learning about session",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GustavoSMelo",
+            "email": "gsantos15569@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "session\\": "src/"
+        }
+    }
+}
