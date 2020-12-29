@@ -1,0 +1,17 @@
+{
+    "name": "gustavomelo/passcrypt",
+    "description": "learning about password crypt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GustavoSMelo",
+            "email": "gsantos15569@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "passcrypt\\": "src/"
+        }
+    }
+}
