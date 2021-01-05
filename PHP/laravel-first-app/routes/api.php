@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\routeInjectionController;
+use App\Http\Controllers\sessionController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use \App\Http\Controllers\testController;
@@ -91,6 +93,42 @@ Route::prefix('controller')->group(function () {
     Route::put('/test', [testController::class, 'Update']);
 
     Route::delete('/test', [testController::class, 'Destroy']);
+
+    Route::post('/test/informations', [testController::class, 'informations']);
+
+    Route::post('/test/photo', [testController::class, 'photo']);
 });
 
 Route::apiResource('/two/test/controller', testTwoController::class);
+
+Route::get('/router/injection/{id}', [routeInjectionController::class, 'index']);
+
+Route::get('/request/is/route', [routeInjectionController::class, 'show'])->name('user');
+
+Route::get('/array', function () {
+    return response([1, 2, 3], 200)->header('X-Header-First', 'Header');
+});
+
+Route::get('/cookie', function () {
+    return response('Hello world')->cookie('cookie_name','cookie_value');
+});
+
+Route::get('/response/json', function () {
+    return response()->json([
+        'name' => 'Gustavo'
+    ]);
+});
+
+Route::get('/img', function () {
+    return response()->file(__DIR__.'/../storage/app/uploads/6nWt0S0n6rs7Xgq9IcXWRICnwhtmZiTyWyR1dzmz.jpg');
+});
+
+Route::get('/full/route', function () {
+    return url()->current();
+});
+
+Route::prefix('session')->group(function () {
+    Route::post('/user', [sessionController::class, 'store']);
+
+    Route::get('/user', [sessionController::class, 'index']);
+});
