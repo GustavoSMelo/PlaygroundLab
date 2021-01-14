@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\UserModel;
 use Exception;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
@@ -9,7 +10,7 @@ use Illuminate\Support\Facades\DB;
 class UserController extends Controller
 {
     public function index () {
-        $users = DB::select('select * from users');
+        $users = UserModel::all();
 
         return response()->json([
             'users' => $users
@@ -49,12 +50,13 @@ class UserController extends Controller
 
             $password_hash = password_hash($request->input('password'), PASSWORD_DEFAULT);
 
-            DB::insert('INSERT INTO users (name, email, password) VALUES (:name, :email, :password)',
-            [
-                'name' => $request->input('name'),
-                'email' => $request->input('email'),
-                'password' => $password_hash
-            ]);
+            $user = new UserModel();
+
+            $user->name = $request->input('name');
+            $user->email = $request->input('email');
+            $user->password = $password_hash;
+
+            $user->save();
 
             return response()->json([
                 'message' => 'User created with success '
@@ -62,7 +64,7 @@ class UserController extends Controller
 
         } catch (Exception $err) {
             return response()->json([
-                'error' => 'ERROR, you informed a wrongs fields, check all of them and try again '
+                'error' => 'ERROR, you informed a wrongs fields, check all of them and try again '.$err
             ], 400);
         }
 
