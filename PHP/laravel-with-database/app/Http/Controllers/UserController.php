@@ -17,19 +17,16 @@ class UserController extends Controller
         ]);
     }
 
-    public function show (Request $request) {
+    public function show (int $id) {
 
         try {
 
-            $request->validate([
-                'id' => ['bail', 'required', 'numeric']
-            ]);
-
-            $user = DB::select('SELECT * FROM users WHERE id = :id', ['id' => $request->input('id')]);
+            $user = UserModel::where('id', $id)->first();
 
             return response()->json([
                 "user" => $user
             ]);
+
         } catch (Exception $err) {
             return response()->json([
                 'error' => 'ERROR, you informed a wrongs fields, check all of them and try again '
@@ -81,12 +78,13 @@ class UserController extends Controller
 
             $password_hash = password_hash($request->input('password'), PASSWORD_DEFAULT);
 
-            DB::update('UPDATE users SET name = :name, email = :email, password = :password WHERE id = :id', [
-                'name' => $request->input('name'),
-                'email' => $request->input('email'),
-                'password' => $password_hash,
-                'id' => $id
-            ]);
+            $user = UserModel::find($id);
+
+            $user->name = $request->input('name');
+            $user->email = $request->input('email');
+            $user->password = $password_hash;
+
+            $user->save();
 
             return response()->json([
                 'message' => 'User updated with success '
@@ -100,6 +98,31 @@ class UserController extends Controller
     }
 
     public function destroy (int $id) {
-        DB::delete('DELETE FROM users WHERE id = :id', ['id' => $id]);
+        $user = UserModel::where('id', $id);
+
+        $user->delete();
+
+        return response()->json([
+            'message' => 'User created with success '
+        ]);
+    }
+
+    public function massAssignment (Request $request) {
+
+        $password_hash = password_hash($request->input('password'), PASSWORD_DEFAULT);
+
+        $user = UserModel::create([
+            'name' => $request->input('name'),
+            'email' => $request->input('email'),
+            'password' => $password_hash
+        ]);
+
+        return response()->json([
+            'message' => 'user created with success '
+        ]);
+    }
+
+    public function indexCourses () {
+        return UserModel::find(1)->course;
     }
 }
