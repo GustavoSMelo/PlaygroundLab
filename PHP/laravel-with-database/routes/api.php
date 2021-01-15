@@ -1,8 +1,11 @@
 <?php
 
+use App\Http\Controllers\coursesController;
+use App\Http\Controllers\productController;
 use App\Http\Controllers\productsController;
 use App\Http\Controllers\salesController;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\userCousersController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -24,13 +27,17 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 Route::prefix('users')->group(function () {
     Route::get('/', [UserController::class, 'index']);
 
-    Route::post('/show', [UserController::class, 'show']);
+    Route::get('/{?id}', [UserController::class, 'show']);
 
     Route::post('/', [UserController::class, 'store']);
 
     Route::put('/{id}', [UserController::class, 'update']);
 
     Route::delete('/', [UserController::class, 'destroy']);
+
+    Route::post('/mass', [UserController::class, 'massAssignment']);
+
+    Route::get('/courses', [UserController::class, 'indexCourses']);
 });
 
 Route::prefix('products')->group(function () {
@@ -57,5 +64,34 @@ Route::prefix('sales')->group(function () {
     Route::get('/', [salesController::class, 'index']);
 
     Route::post('/', [salesController::class, 'store']);
+
+    Route::get('/show/product/{id}', [salesController::class, 'showWithProduct']);
+
+    Route::get('/show/user/{id}', [salesController::class, 'showWithUser']);
+
+});
+
+Route::prefix('product')->group(function () {
+
+    Route::post('/', [productController::class, 'store']);
+
+    Route::get('/', [productController::class, 'index']);
+
+});
+
+Route::prefix('usercourses')->group(function () {
+
+    Route::post('/', [userCousersController::class, 'store']);
+
+    Route::get('/', [userCousersController::class, 'index']);
+
+});
+
+
+Route::prefix('courses')->group(function () {
+
+    Route::get('/', [coursesController::class, 'index']);
+
+    Route::get('/users', [coursesController::class, 'indexUsers']);
 
 });
